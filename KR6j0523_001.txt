@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:10.387311
+#+DATE: 2015-08-30 20:34:10.650585
 #+TITLE: 法華十羅剎法
 #+PROPERTY: CBETA_ID T21n1292
 #+PROPERTY: ID KR6j0523
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1292
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6j0523_T_000-0377a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0523_T_001-0377a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1292¶
-
- 法華十羅剎法¶
+No. 1292¶
+法華十羅剎法¶
 ¶
 
 先欲作印可入釋迦定印。¶
@@ -46,7 +45,7 @@ No.1292¶
 (向鬼門雷電被打印也)¶
 
 六羅剎縛印　以前印。即以大指相交。二水¶
-閒二地指押上。又以無二風屈頭鉤。押空頭¶
+閒二地指押上。又以無好二風屈頭鉤。押空頭¶
 成。呪曰。¶
 
 伊徥履(云云　如經說任理頌羅剎呪也)¶
@@ -98,7 +97,7 @@ No.1292¶
 
 八羅剎呪曰。¶
 
-唵帝履帝履𥤦𥤦醯醯比吽鑁吽發吒¶
+唵帝履帝履[穴/又][穴/又]醯醯比吽鑁吽發吒¶
 
 十羅剎八龍王攝印護身呪　難陀拔難陀等¶
 部類眷屬皆護我可言加加加。¶
