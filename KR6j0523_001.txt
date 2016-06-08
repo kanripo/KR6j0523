@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:10.387311
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 法華十羅剎法
 #+PROPERTY: CBETA_ID T21n1292
 #+PROPERTY: ID KR6j0523
@@ -115,9 +115,9 @@ No.1292¶
 　不輕神力囑累品
 　藥王妙音菩薩品¶
 　普門陀羅尼嚴王品
-　普賢菩薩勸發品
+　普賢菩薩勸發品」
 #+END_VERSE
-」¶
+¶
 
 　(已上呪)。¶
 
