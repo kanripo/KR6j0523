@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:10.387311
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:23
 #+TITLE: 法華十羅剎法
 #+PROPERTY: CBETA_ID T21n1292
 #+PROPERTY: ID KR6j0523
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1292
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0523_T_000-0377a>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0523_T_001-0377a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1292¶
-
- 法華十羅剎法¶
+No. 1292¶
+法華十羅剎法¶
 ¶
 
 先欲作印可入釋迦定印。¶
@@ -115,9 +114,9 @@ No.1292¶
 　不輕神力囑累品
 　藥王妙音菩薩品¶
 　普門陀羅尼嚴王品
-　普賢菩薩勸發品
+　普賢菩薩勸發品」
 #+END_VERSE
-」¶
+¶
 
 　(已上呪)。¶
 
